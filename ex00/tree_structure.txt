@@ -1,0 +1,254 @@
+.:
+total 40
+drwxrwxr-x 10 kali kali 4096 Oct  5 14:51 .
+drwx------ 21 kali kali 4096 Oct  5 14:41 ..
+drwxrwxr-x  2 kali kali 4096 Oct  5 02:35 archives
+drwxrwxr-x  6 kali kali 4096 Oct  5 02:46 dev_workspace
+drwxrwxr-x  2 kali kali 4096 Oct  5 14:51 ex00
+drwxrwxr-x  2 kali kali 4096 Oct  5 02:51 ex01
+drwxrwxr-x  3 kali kali 4096 Oct  5 03:21 ex02
+drwxrwxr-x  3 kali kali 4096 Oct  5 02:37 project
+drwxrwxr-x  3 kali kali 4096 Oct  5 14:48 projects
+drwxrwxr-x  2 kali kali 4096 Oct  5 02:35 tools
+
+./archives:
+total 8
+drwxrwxr-x  2 kali kali 4096 Oct  5 02:35 .
+drwxrwxr-x 10 kali kali 4096 Oct  5 14:51 ..
+
+./dev_workspace:
+total 24
+drwxrwxr-x  6 kali kali 4096 Oct  5 02:46 .
+drwxrwxr-x 10 kali kali 4096 Oct  5 14:51 ..
+drwxrwxr-x  2 kali kali 4096 Oct  5 02:43 archives
+drwxrwxr-x  2 kali kali 4096 Oct  5 02:46 ex00
+drwxrwxr-x  3 kali kali 4096 Oct  5 02:43 projects
+drwxrwxr-x  2 kali kali 4096 Oct  5 02:43 tools
+
+./dev_workspace/archives:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  5 02:43 .
+drwxrwxr-x 6 kali kali 4096 Oct  5 02:46 ..
+
+./dev_workspace/ex00:
+total 12
+drwxrwxr-x 2 kali kali 4096 Oct  5 02:46 .
+drwxrwxr-x 6 kali kali 4096 Oct  5 02:46 ..
+-rw-rw-r-- 1 kali kali 1276 Oct  5 02:46 tree_structure.txt
+
+./dev_workspace/projects:
+total 12
+drwxrwxr-x 3 kali kali 4096 Oct  5 02:43 .
+drwxrwxr-x 6 kali kali 4096 Oct  5 02:46 ..
+drwxrwxr-x 4 kali kali 4096 Oct  5 02:43 web
+
+./dev_workspace/projects/web:
+total 16
+drwxrwxr-x 4 kali kali 4096 Oct  5 02:43 .
+drwxrwxr-x 3 kali kali 4096 Oct  5 02:43 ..
+drwxrwxr-x 2 kali kali 4096 Oct  5 02:43 backend
+drwxrwxr-x 2 kali kali 4096 Oct  5 02:43 frontend
+
+./dev_workspace/projects/web/backend:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  5 02:43 .
+drwxrwxr-x 4 kali kali 4096 Oct  5 02:43 ..
+
+./dev_workspace/projects/web/frontend:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  5 02:43 .
+drwxrwxr-x 4 kali kali 4096 Oct  5 02:43 ..
+
+./dev_workspace/tools:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  5 02:43 .
+drwxrwxr-x 6 kali kali 4096 Oct  5 02:46 ..
+
+./ex00:
+total 8
+drwxrwxr-x  2 kali kali 4096 Oct  5 14:51 .
+drwxrwxr-x 10 kali kali 4096 Oct  5 14:51 ..
+-rw-rw-r--  1 kali kali    0 Oct  5 14:51 tree_structure.txt
+
+./ex01:
+total 24
+drwxrwxr-x  2 kali kali 4096 Oct  5 02:51 .
+drwxrwxr-x 10 kali kali 4096 Oct  5 14:51 ..
+-rw-rw-r--  1 kali kali   23 Oct  5 02:51 draft.txt
+-rw-rw-r--  1 kali kali   23 Oct  5 02:51 final_report.txt
+-rwxrwxr-x  1 kali kali  222 Oct  5 02:50 manage_files.sh
+-rw-rw-r--  1 kali kali   23 Oct  5 02:51 run_log.txt
+
+./ex02:
+total 20
+drwxrwxr-x  3 kali kali 4096 Oct  5 03:21 .
+drwxrwxr-x 10 kali kali 4096 Oct  5 14:51 ..
+drwxrwxr-x  7 kali kali 4096 Oct  5 04:09 .git
+-rw-rw-r--  1 kali kali  143 Oct  5 03:22 git_log.txt
+-rw-rw-r--  1 kali kali   13 Oct  5 03:08 hello.txt
+
+./ex02/.git:
+total 48
+drwxrwxr-x 7 kali kali 4096 Oct  5 04:09 .
+drwxrwxr-x 3 kali kali 4096 Oct  5 03:21 ..
+-rw-rw-r-- 1 kali kali   15 Oct  5 03:20 COMMIT_EDITMSG
+-rw-rw-r-- 1 kali kali  222 Oct  5 04:09 config
+-rw-rw-r-- 1 kali kali   73 Oct  5 03:07 description
+-rw-rw-r-- 1 kali kali   21 Oct  5 03:27 HEAD
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:07 hooks
+-rw-rw-r-- 1 kali kali  137 Oct  5 03:20 index
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:07 info
+drwxrwxr-x 3 kali kali 4096 Oct  5 03:20 logs
+drwxrwxr-x 7 kali kali 4096 Oct  5 03:20 objects
+drwxrwxr-x 4 kali kali 4096 Oct  5 03:07 refs
+
+./ex02/.git/hooks:
+total 72
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:07 .
+drwxrwxr-x 7 kali kali 4096 Oct  5 04:09 ..
+-rwxrwxr-x 1 kali kali  478 Oct  5 03:07 applypatch-msg.sample
+-rwxrwxr-x 1 kali kali  896 Oct  5 03:07 commit-msg.sample
+-rwxrwxr-x 1 kali kali 4726 Oct  5 03:07 fsmonitor-watchman.sample
+-rwxrwxr-x 1 kali kali  189 Oct  5 03:07 post-update.sample
+-rwxrwxr-x 1 kali kali  424 Oct  5 03:07 pre-applypatch.sample
+-rwxrwxr-x 1 kali kali 1649 Oct  5 03:07 pre-commit.sample
+-rwxrwxr-x 1 kali kali  416 Oct  5 03:07 pre-merge-commit.sample
+-rwxrwxr-x 1 kali kali 1492 Oct  5 03:07 prepare-commit-msg.sample
+-rwxrwxr-x 1 kali kali 1374 Oct  5 03:07 pre-push.sample
+-rwxrwxr-x 1 kali kali 4898 Oct  5 03:07 pre-rebase.sample
+-rwxrwxr-x 1 kali kali  544 Oct  5 03:07 pre-receive.sample
+-rwxrwxr-x 1 kali kali 2783 Oct  5 03:07 push-to-checkout.sample
+-rwxrwxr-x 1 kali kali 2308 Oct  5 03:07 sendemail-validate.sample
+-rwxrwxr-x 1 kali kali 3650 Oct  5 03:07 update.sample
+
+./ex02/.git/info:
+total 12
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:07 .
+drwxrwxr-x 7 kali kali 4096 Oct  5 04:09 ..
+-rw-rw-r-- 1 kali kali  240 Oct  5 03:07 exclude
+
+./ex02/.git/logs:
+total 16
+drwxrwxr-x 3 kali kali 4096 Oct  5 03:20 .
+drwxrwxr-x 7 kali kali 4096 Oct  5 04:09 ..
+-rw-rw-r-- 1 kali kali  523 Oct  5 03:27 HEAD
+drwxrwxr-x 3 kali kali 4096 Oct  5 03:27 refs
+
+./ex02/.git/logs/refs:
+total 12
+drwxrwxr-x 3 kali kali 4096 Oct  5 03:27 .
+drwxrwxr-x 3 kali kali 4096 Oct  5 03:20 ..
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:27 heads
+
+./ex02/.git/logs/refs/heads:
+total 12
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:27 .
+drwxrwxr-x 3 kali kali 4096 Oct  5 03:27 ..
+-rw-rw-r-- 1 kali kali  342 Oct  5 03:27 main
+
+./ex02/.git/objects:
+total 28
+drwxrwxr-x 7 kali kali 4096 Oct  5 03:20 .
+drwxrwxr-x 7 kali kali 4096 Oct  5 04:09 ..
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:08 bc
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:08 d3
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:20 ed
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:07 info
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:07 pack
+
+./ex02/.git/objects/bc:
+total 12
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:08 .
+drwxrwxr-x 7 kali kali 4096 Oct  5 03:20 ..
+-r--r--r-- 1 kali kali   29 Oct  5 03:08 a999f8e67cfd145e5c2eb7b72fd6fc0acd9bdc
+
+./ex02/.git/objects/d3:
+total 12
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:08 .
+drwxrwxr-x 7 kali kali 4096 Oct  5 03:20 ..
+-r--r--r-- 1 kali kali   54 Oct  5 03:08 54a42617cdd5e267b9f030a2d18f3c4ca252d6
+
+./ex02/.git/objects/ed:
+total 12
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:20 .
+drwxrwxr-x 7 kali kali 4096 Oct  5 03:20 ..
+-r--r--r-- 1 kali kali  125 Oct  5 03:20 e550951b9b5419da6f659a24f8068c5a077064
+
+./ex02/.git/objects/info:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:07 .
+drwxrwxr-x 7 kali kali 4096 Oct  5 03:20 ..
+
+./ex02/.git/objects/pack:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:07 .
+drwxrwxr-x 7 kali kali 4096 Oct  5 03:20 ..
+
+./ex02/.git/refs:
+total 16
+drwxrwxr-x 4 kali kali 4096 Oct  5 03:07 .
+drwxrwxr-x 7 kali kali 4096 Oct  5 04:09 ..
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:27 heads
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:07 tags
+
+./ex02/.git/refs/heads:
+total 12
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:27 .
+drwxrwxr-x 4 kali kali 4096 Oct  5 03:07 ..
+-rw-rw-r-- 1 kali kali   41 Oct  5 03:27 main
+
+./ex02/.git/refs/tags:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  5 03:07 .
+drwxrwxr-x 4 kali kali 4096 Oct  5 03:07 ..
+
+./project:
+total 12
+drwxrwxr-x  3 kali kali 4096 Oct  5 02:37 .
+drwxrwxr-x 10 kali kali 4096 Oct  5 14:51 ..
+drwxrwxr-x  4 kali kali 4096 Oct  5 02:37 web
+
+./project/web:
+total 16
+drwxrwxr-x 4 kali kali 4096 Oct  5 02:37 .
+drwxrwxr-x 3 kali kali 4096 Oct  5 02:37 ..
+drwxrwxr-x 2 kali kali 4096 Oct  5 02:37 backend
+drwxrwxr-x 2 kali kali 4096 Oct  5 02:37 frontend
+
+./project/web/backend:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  5 02:37 .
+drwxrwxr-x 4 kali kali 4096 Oct  5 02:37 ..
+
+./project/web/frontend:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  5 02:37 .
+drwxrwxr-x 4 kali kali 4096 Oct  5 02:37 ..
+
+./projects:
+total 12
+drwxrwxr-x  3 kali kali 4096 Oct  5 14:48 .
+drwxrwxr-x 10 kali kali 4096 Oct  5 14:51 ..
+drwxrwxr-x  4 kali kali 4096 Oct  5 14:48 web
+
+./projects/web:
+total 16
+drwxrwxr-x 4 kali kali 4096 Oct  5 14:48 .
+drwxrwxr-x 3 kali kali 4096 Oct  5 14:48 ..
+drwxrwxr-x 2 kali kali 4096 Oct  5 14:48 backend
+drwxrwxr-x 2 kali kali 4096 Oct  5 14:48 frontend
+
+./projects/web/backend:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  5 14:48 .
+drwxrwxr-x 4 kali kali 4096 Oct  5 14:48 ..
+
+./projects/web/frontend:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  5 14:48 .
+drwxrwxr-x 4 kali kali 4096 Oct  5 14:48 ..
+
+./tools:
+total 8
+drwxrwxr-x  2 kali kali 4096 Oct  5 02:35 .
+drwxrwxr-x 10 kali kali 4096 Oct  5 14:51 ..
