@@ -1,1 +1,0 @@
-Git workflow: initialize repository, add files, commit changes, and push to remote repository.
